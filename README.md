@@ -8,3 +8,5 @@ press the play button after loading the project in unity hub
 # Notes
 * press space to jump
 * its not the most best game, there are a lot of bugs
+* the itch.io page is [here](https://hdfsyu.itch.io/flybird)
+* there is no audio in the webgl version
